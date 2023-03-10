@@ -11,7 +11,9 @@ The dataset has been sourced from Kaggle. The data is of the year 2022.
 
 ## Tools
 
-MS Excel and Tableau
+MS Excel and Tableau 
+The dahsboard can be viewed at :
+https://public.tableau.com/app/profile/reeba1597/viz/GTAPropertyPrices2022/
 
 ## Results
 
