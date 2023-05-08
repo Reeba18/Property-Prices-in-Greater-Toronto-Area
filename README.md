@@ -1,5 +1,5 @@
 # Property-Prices-in-Greater-Toronto-Area
-Analysis of Property Prices in GTA using MS Excel and Tableau
+Analysis of Property Prices in GTA using MS Excel,SQL and Tableau
 
 ## Overview
 
